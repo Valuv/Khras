@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 5f9d0137a10cc464c811d4582d64a75e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Bellota
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 872cff8ca0e45db41bd4b29ffa8927c9, type: 3}
+  - {fileID: 12800000, guid: ea19c7b5c1314be44b9d2ccaa1b39139, type: 3}
+  - {fileID: 12800000, guid: 99db3612d5f17044682986350a1c4b44, type: 3}
+  - {fileID: 12800000, guid: 840c8f80eacf278489b72eab6ad77da2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
