@@ -4,7 +4,16 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuPrincipal.unity
+    guid: 24f1bd71106c8274792f19572b1b38c3
+  - enabled: 1
+    path: Assets/Scenes/Sotano.unity
+    guid: b9ed7c2e3ab40334db7468bdbda42dcd
+  - enabled: 1
+    path: Assets/Scenes/PrimerPiso.unity
+    guid: 42735980e85b1384bb679bdd64ad0a40
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: b00d6369b709cd74cbc3cd8c4f12b3c6, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: bfc90b56ca350d14584bd8ed2f4e3e4d, type: 2}
