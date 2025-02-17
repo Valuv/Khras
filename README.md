@@ -10,17 +10,24 @@ Programación C#
 </p> Implementación Unity 3D
 
 ## 🖥️ Ejecutable
-Puedes descargar la última versión ejecutable del juego desde [aquí](https://github.com/usuario/vr-game/releases).
+Puedes descargar la última versión ejecutable del juego desde [aquí](https://github.com/Valuv/Khras/releases/download/videogame/Khras.apk).
 
 ## 🚀 Instalación
 ### Requisitos
-- Un visor de realidad virtual compatible (Oculus Rift, HTC Vive, etc.).
+- Un visor de realidad virtual compatible (Oculus Rift, HTC Vive, etc.)
+- Unity.
 - PC con Windows/Mac/Linux.
-- Unity 2021+ o Unreal Engine 5.
-- SteamVR o OpenXR instalado.
+
 
 ### Pasos
-1. Clona el repositorio:
-   ```sh
-   git clone https://github.com/usuario/vr-game.git
-   cd vr-game
+1. Clona el repositorio en un proyecto de Unity 3D.
+2. Desde un computador, crear una cuenta Meta para desarrolladores:
+https://developer.oculus.com/
+3. Instalar en el celular la aplicación “Oculus/MetaQuest”. Se descarga desde Google Play o
+App Store.
+4. Instalar en el computador “Oculus”:
+https://www.meta.com/quest/setup/?utm_source=www.meta.com&utm_medium=dollyr
+edirect
+5. Instalar en el computador “Oculus Developer Hub”: https://developer.oculus.com/
+6. Configura el proyecto de Unity para usar el sistema Oculus Meta Quest2 para Desarrollo. 
+ 
