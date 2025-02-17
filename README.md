@@ -3,10 +3,11 @@
 </p>
 
 ## 📖 Descripción
-Bienvenido al repositorio de **VR Game**, un emocionante juego de realidad virtual que te sumerge en una experiencia inmersiva e interactiva.
+Bienvenido al repositorio de **Khras**, un emocionante juego de realidad virtual que te sumerge en una experiencia inmersiva e interactiva de terror en el que debes resolverlo puzzles para salir de la casa encantada, ¿Vivo?.
 
 ## 👨‍💻 Mi Rol
-Este proyecto fue desarrollado por [Tu Nombre], encargado del diseño, programación y optimización del juego para VR.
+Programación C#
+Implementación Unity 3D
 
 ## 🖥️ Ejecutable
 Puedes descargar la última versión ejecutable del juego desde [aquí](https://github.com/usuario/vr-game/releases).
