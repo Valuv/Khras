@@ -2,32 +2,30 @@
   <img src="https://github.com/Valuv/Khras/blob/main/Imagenes/Khraslogo.jpeg" alt="Khras Logo" width="300" style="border-radius: 50%;" />
 </p>
 
-## 📖 Descripción
-Bienvenido al repositorio de **Khras**, un emocionante juego de realidad virtual que te sumerge en una experiencia inmersiva e interactiva de terror en el que debes resolverlo puzzles para salir de la casa encantada, ¿Vivo?.
+## 📖 Description
+Welcome to the **Khras** repository, an exciting virtual reality horror game that immerses you in an interactive and immersive experience where you must solve puzzles to escape the haunted house... alive?
 
-## 👨‍💻 Mi Rol
-Programación C#
-</p> Implementación Unity 3D
+## 👨‍💻 My Role
+C# Programming  
+Unity 3D Implementation  
 
-## 🖥️ Ejecutable
-Puedes descargar la última versión ejecutable del juego desde [aquí](https://github.com/Valuv/Khras/releases/download/videogame/Khras.apk).
+## 🖥️ Executable
+You can download the latest executable version of the game from [here](https://github.com/Valuv/Khras/releases/download/videogame/Khras.apk).
 
-## 🚀 Instalación
-### Requisitos
-- Un visor de realidad virtual compatible (Oculus Rift, HTC Vive, etc.)
-- Unity.
-- PC con Windows/Mac/Linux.
+## 🚀 Installation
+### Requirements
+- A compatible virtual reality headset (Oculus Rift, HTC Vive, etc.)
+- Unity
+- PC with Windows/Mac/Linux
 
+### Steps
+1. Clone the repository into a Unity 3D project.
+2. From a computer, create a Meta developer account:  
+   [https://developer.oculus.com/](https://developer.oculus.com/)
+3. Install the **Oculus/MetaQuest** app on your mobile device from Google Play or the App Store.
+4. Install **Oculus** on your computer:  
+   [https://www.meta.com/quest/setup/?utm_source=www.meta.com&utm_medium=dollyredirect](https://www.meta.com/quest/setup/?utm_source=www.meta.com&utm_medium=dollyredirect)
+5. Install **Oculus Developer Hub** on your computer:  
+   [https://developer.oculus.com/](https://developer.oculus.com/)
+6. Configure the Unity project to use the Oculus Meta Quest 2 system for development.
 
-### Pasos
-1. Clona el repositorio en un proyecto de Unity 3D.
-2. Desde un computador, crear una cuenta Meta para desarrolladores:
-https://developer.oculus.com/
-3. Instalar en el celular la aplicación “Oculus/MetaQuest”. Se descarga desde Google Play o
-App Store.
-4. Instalar en el computador “Oculus”:
-https://www.meta.com/quest/setup/?utm_source=www.meta.com&utm_medium=dollyr
-edirect
-5. Instalar en el computador “Oculus Developer Hub”: https://developer.oculus.com/
-6. Configura el proyecto de Unity para usar el sistema Oculus Meta Quest2 para Desarrollo. 
- 
