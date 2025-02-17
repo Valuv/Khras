@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Imagenes/khraslogo.jpeg" alt="VR Game Logo" width="300" style="border-radius: 50%;" />
+  <img src="Imagenes/khraslogo.jpeg" alt="Khras Logo" width="300" style="border-radius: 50%;" />
 </p>
 
 ## 📖 Descripción
