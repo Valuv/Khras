@@ -7,7 +7,7 @@ Bienvenido al repositorio de **Khras**, un emocionante juego de realidad virtual
 
 ## 👨‍💻 Mi Rol
 Programación C#
-Implementación Unity 3D
+</p> Implementación Unity 3D
 
 ## 🖥️ Ejecutable
 Puedes descargar la última versión ejecutable del juego desde [aquí](https://github.com/usuario/vr-game/releases).
