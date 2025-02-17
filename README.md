@@ -5,6 +5,12 @@
 ## 📖 Description
 Welcome to the **Khras** repository, an exciting virtual reality horror game that immerses you in an interactive and immersive experience where you must solve puzzles to escape the haunted house... alive?
 
+### 👨‍💻 Members:
+
+1. **Valentina Uribe Valencia - Programmer**
+2. **Esteban Suárez - UI/UX Designer**
+3. **Juan Manuel Cadavida Salazar - 3D Artist**
+
 ## 👨‍💻 My Role
 C# Programming  
 Unity 3D Implementation  
