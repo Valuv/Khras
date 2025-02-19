@@ -16,8 +16,11 @@ Welcome to the **Khras** repository, an exciting virtual reality horror game tha
 C# Programming  
 Unity 3D Implementation  
 
+## 🖥️ Gameplay 
+Check out our gameplay [here](https://github.com/Valuv/Khras/releases/download/videogame/Khras.apk).
+
 ## 🖥️ Executable
-You can download the latest executable version of the game from [here](https://github.com/Valuv/Khras/releases/download/videogame/Khras.apk).
+You can download the latest executable version of the game from [here](https://youtu.be/m9GK65Lb9MQ).
 
 ## 🚀 Installation
 ### Requirements
