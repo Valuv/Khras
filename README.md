@@ -10,6 +10,7 @@ Welcome to the **Khras** repository, an exciting virtual reality horror game tha
 1. **Valentina Uribe Valencia - Programmer**
 2. **Esteban Suárez - UI/UX Designer**
 3. **Juan Manuel Cadavida Salazar - 3D Artist**
+4. **Santiago Aguirre Blandon - Programmer** 
 
 ## 👨‍💻 My Role
 C# Programming  
