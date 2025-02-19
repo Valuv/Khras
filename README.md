@@ -17,10 +17,10 @@ C# Programming
 Unity 3D Implementation  
 
 ## 🖥️ Gameplay 
-Check out our gameplay [here](https://github.com/Valuv/Khras/releases/download/videogame/Khras.apk).
+Check out our gameplay [here](https://youtu.be/m9GK65Lb9MQ).
 
 ## 🖥️ Executable
-You can download the latest executable version of the game from [here](https://youtu.be/m9GK65Lb9MQ).
+You can download the latest executable version of the game from [here](https://github.com/Valuv/Khras/releases/download/videogame/Khras.apk).
 
 ## 🚀 Installation
 ### Requirements
